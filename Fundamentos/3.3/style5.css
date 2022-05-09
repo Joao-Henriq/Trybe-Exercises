@@ -1,0 +1,60 @@
+.ol {
+    background-color: yellow;
+}
+
+.ol .par {
+    color: green;
+}
+
+.ol .par {
+    text-transform: uppercase;
+}
+
+h1, h3 {
+    color: red;
+}
+
+h1 em {
+    font-size: 40px;
+    border: 1px solid black;
+}
+
+li {
+    font-size: 20px;
+}
+
+li em {
+    font-weight: bold;
+}
+
+.ul li:nth-child(-n+3){
+    color: blue;
+}
+.ul .java {
+    background-color: pink;
+}
+
+ul li a:hover{
+    font-weight: bold;
+
+}
+
+ul .stack a:hover{
+    color: orange;
+}
+
+ul .w3c a:hover{
+    color: green;
+}
+
+ul .mdn a:hover{
+    color: black;
+}
+
+ul .dev a:hover {
+    color: yellow;
+}
+
+ul .trybe a:hover {
+    color:yellowgreen;
+}
