@@ -5,5 +5,5 @@ const valorCustoTotal = custo + ( imposto * custo);
 let lucro = valorVenda - valorCustoTotal;
 if ( custo < 0 || valorVenda < 0 ) console.log('error');
 else {
-    console.log(`O lucro foi de ${lucro}`);
+    console.log('O lucro foi de', lucro);
 } 
