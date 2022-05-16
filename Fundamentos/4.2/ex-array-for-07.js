@@ -1,0 +1,9 @@
+let numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27, 12];
+let smallestNumber = numbers[0];
+
+for (let i = 0 ; i < numbers.length ; i++){
+    if(smallestNumber > numbers[i]){
+        smallestNumber = numbers[i];
+    }
+}
+console.log(smallestNumber)
