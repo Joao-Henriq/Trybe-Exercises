@@ -4,7 +4,7 @@ function maiorNumeroNoArray(array, resultado){
     resultado = 0;
     for (let i in array){
         if (array[i] >= resultado){
-            resultado = array[i];
+            resultado = i;
         }
     }
     return resultado;
