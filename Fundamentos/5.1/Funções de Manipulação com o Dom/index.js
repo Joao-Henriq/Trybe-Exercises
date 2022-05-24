@@ -5,3 +5,7 @@ myParagraphsOfSection[1].innerText = 'Eu me vejo daqui a 2 anos como um desenvol
 // requisito 2
 let myBackgroundOfMainContent = document.getElementsByClassName('main-content');
 myBackgroundOfMainContent[0].style.backgroundColor = 'rgb(76,164,109)';
+
+//requisito 3
+let centerContent = document.getElementsByClassName('center-content');
+centerContent[0].style.backgroundColor = 'white';
