@@ -13,3 +13,8 @@ centerContent[0].style.backgroundColor = 'white';
 // requisito 4
 let brokerContentH1 = document.getElementsByClassName('title');
 brokerContentH1[0].innerText = 'Exercício 5.1 JavaScript';
+
+let allparagraphsUpperCase = document.getElementsByTagName('p');
+for (let i = 0 ; i < allparagraphsUpperCase.length ; i++) {
+    allparagraphsUpperCase[i].style.textTransform = 'uppercase';
+}
