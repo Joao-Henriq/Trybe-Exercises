@@ -9,3 +9,7 @@ myBackgroundOfMainContent[0].style.backgroundColor = 'rgb(76,164,109)';
 //requisito 3
 let centerContent = document.getElementsByClassName('center-content');
 centerContent[0].style.backgroundColor = 'white';
+
+// requisito 4
+let brokerContentH1 = document.getElementsByClassName('title');
+brokerContentH1[0].innerText = 'Exercício 5.1 JavaScript';
