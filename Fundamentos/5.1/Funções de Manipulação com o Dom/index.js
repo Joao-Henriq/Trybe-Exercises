@@ -14,7 +14,18 @@ centerContent[0].style.backgroundColor = 'white';
 let brokerContentH1 = document.getElementsByClassName('title');
 brokerContentH1[0].innerText = 'Exercício 5.1 JavaScript';
 
+// requisito 5
 let allparagraphsUpperCase = document.getElementsByTagName('p');
 for (let i = 0 ; i < allparagraphsUpperCase.length ; i++) {
     allparagraphsUpperCase[i].style.textTransform = 'uppercase';
 }
+
+// requisito 6
+function showAllInConsole(text){
+    text = document.getElementsByTagName('p');
+    for (let i = 0; i < text.length ; i++) {
+        console.log(text[i].innerText);
+    }
+    return text;
+}
+showAllInConsole();
