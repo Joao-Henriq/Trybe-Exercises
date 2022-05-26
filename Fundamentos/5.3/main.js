@@ -35,6 +35,14 @@ function alteraClasses(event) {
 
 // 3. Crie uma função que, ao digitar na caixa de texto, altere o texto do elemento
 // com a classe 'tech';
+let PegaOElementoQueTemTech = document.getElementsByClassName('tech');
+input.addEventListener('change', changeText);
+function changeText(event) {
+  for(let i = 0 ; i < PegaOElementoQueTemTech.length ; i++){
+    PegaOElementoQueTemTech[i].innerHTML = input.value;
+  }
+}
+
 
 
 // 4. Crie uma função que, ao clicar duas vezes em 'Meu top 3 do Spotrybefy', ele
