@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Exercício 5.2</title>
+    <style>
+      section {
+        border-color: black;
+        border-style: solid;
+      }
+
+      .title {
+        text-align: center;
+      }
+
+      .main-content {
+        background-color: yellow;
+      }
+
+      .main-content .center-content {
+        background-color: red;
+        width: 50%;
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+      .main-content .center-content p {
+        font-style: italic;
+      }
+
+      .main-content .left-content {
+        background-color: green;
+        width: 60%;
+        margin-left: 0;
+        margin-right: auto;
+      }
+
+      .main-content .left-content .small-image {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 100%;
+      }
+
+      .main-content .right-content {
+        background-color: blue;
+        width: 60%;
+        margin-left: auto;
+        margin-right: 0;
+      }
+
+      .main-content .description {
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <script>
+        //requisito 1
+        let body = document.querySelector('body');
+        let h1Title = document.createElement('h1');
+        body.appendChild(h1Title);
+        h1Title.innerText = 'Este É meu título criado dinamicamente';
+
+
+        // requisito 2 
+        let main = document.createElement('main');
+        main.setAttribute('class', 'main-content');
+        main.innerText = 'Esse é meu conteúdo principal adicionado dinamicamente'
+        body.appendChild(main);
+
+        // requisito 3 
+        main = document.querySelector('.main-content');
+        let section = document.createElement('section');
+        section.setAttribute('class', 'center-content');
+        main.appendChild(section);
+        section.innerText = 'Sou a section filha da Main';
+
+        // requisito 4
+        section = document.querySelector('.center-content');
+        let p = document.createElement('p');
+        section.appendChild(p).innerText = 'Parágrafo filho da tag section';
+
+        // requisito 5 
+        let sectionLeft = document.createElement('section');
+        sectionLeft.setAttribute('class', 'left-content');
+        main.appendChild(sectionLeft);
+
+        // requisito 6
+        let sectionRight = document.createElement('section');
+        sectionRight.setAttribute('class', 'right-content');
+        main.appendChild(sectionRight);
+        
+        // requisito 7
+        let img = document.createElement('img');
+        img.setAttribute('src', 'https://picsum.photos/200');
+        img.setAttribute('class', 'small-image');
+        sectionLeft.appendChild(img);
+        
+        //requisito 8
+        sectionRight.querySelector('right-content'); //seleciona a section
+
+        var listaOrdenada = document.createElement('ol'); //cria a OL
+        sectionRight.appendChild(listaOrdenada); // adiciona a OL na section 
+
+        listaOrdenada = document.querySelector('ol'); // seleciona a OL
+        let liNaListaOrdenada = document.createElement('li');
+        let listaPorExtenso = ['um', 'dois', 'tres', 'quatro', 'cinco', 'seis', 'sete', 'oito', 'nove', 'dez'];
+        // lista por extenso é o texto das li's que serão adicionadas a OL
+        for(let i = 0 ; i < listaPorExtenso.length ; i++){    
+            liNaListaOrdenada = document.createElement('li');
+            listaOrdenada.appendChild(liNaListaOrdenada);
+            liNaListaOrdenada.innerText = listaPorExtenso[i]
+        }
+        // requisito 9
+        let h3NaMain = document.createElement('h3');
+        h3NaMain.querySelector('h3');
+        textoParaH3 = ['texto1', 'texto2', 'texto3'];
+        for (let i = 0; i < textoParaH3.length ; i++) {
+            h3NaMain = document.createElement('h3');
+            main.appendChild(h3NaMain);
+            h3NaMain.innerText = textoParaH3[i];
+            h3NaMain.setAttribute('class', 'description');
+
+        }
+        // Parte 2 
+        // requisito 1 
+        h1Title.setAttribute('class', 'title');
+        // requisito 2 feito no for acima
+        // requisito 3
+        main.removeChild(sectionLeft);
+        
+        //requisito 4
+        sectionRight.style.marginRight = 'auto';
+
+        //requisito 5 
+        section.style.background = 'green';
+        
+
+
+    </script>
+  </body>
+</html>
