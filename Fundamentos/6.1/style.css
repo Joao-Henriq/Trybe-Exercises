@@ -1,0 +1,20 @@
+
+#fieldset { 
+    display: block;
+    max-width: 50%;
+}
+
+label {
+    display: block;
+    margin: 10px;
+}
+
+.label-nome input, .label-email input{
+    max-width: 80%;
+}
+
+.label-motivo input{
+    width: 100%;
+    height: 70px;
+    display: block;
+}
