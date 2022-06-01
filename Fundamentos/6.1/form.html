@@ -13,12 +13,12 @@
     </header>
     <form action="">
         <fieldset id="fieldset">
-            <label class="label-nome" for="nome" maxlength = "40" minlength="10">Nome:
-                <input type="text" name="nome">
+            <label class="label-nome" for="nome">Nome:
+                <input id="inputName" type="text" name="nome" maxlength = "40" minlength="10">
             </label>
 
-            <label class="label-email" for="e-mail" maxlength = "40" minlength="10" >E-mail:
-                <input type="email" name="e-mail">
+            <label class="label-email" for="e-mail">E-mail:
+                <input id="inputEmail" type="email" name="e-mail" maxlength = "40" minlength="10">
             </label>
 
             <label class="label-opcao" for="opcao-cidade">
@@ -29,7 +29,7 @@
             </label>
 
             <label class="label-motivo">Por que você deveria ser a pessoa desenvolvedora a ganhar o concurso TrybeTrip?
-                <input type="textarea" max="500" enabled>
+                <input type="textarea" maxlength="500" id="motivo">
             </label>
 
             <label class="label-data">Qual a melhor data para realizar sua viagem?
@@ -38,7 +38,8 @@
 
             <label class="label-opiniao" for="">
                 Gostaria de receber outras incríveis oportunidades oferecidas pela Trybe?<input type="checkbox" name="" id="">
-                Concordo que imagens das minhas férias poderão ser usadas na divulgação de concursos futuros.<input type="checkbox" name="" id="">
+                
+                Concordo que imagens das minhas férias poderão ser usadas na divulgação de concursos futuros.<input type="checkbox" name="" id="necessary">
             </label>
 
         </fieldset>

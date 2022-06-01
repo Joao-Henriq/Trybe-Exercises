@@ -17,21 +17,14 @@ minhaUl.addEventListener("click", alteraClasses);
 minhaLista = document.querySelectorAll('li');
 
 function alteraClasses(event) {
-  if(event.target === minhaLista[0]){
-    minhaLista[0].classList.add('tech');
-    minhaLista[1].classList.remove('tech');
-    minhaLista[2].classList.remove('tech');
-  } else if (event.target === minhaLista [1]){
-    minhaLista[0].classList.remove('tech');
-    minhaLista[1].classList.add('tech');
-    minhaLista[2].classList.remove('tech');
-  } else {
-    minhaLista[0].classList.remove('tech');
-    minhaLista[1].classList.remove('tech');
-    minhaLista[2].classList.add('tech');
-  }
+  const techElement = document.querySelector('.tech');
+  techElement.classList.remove('tech');
+  event.target.classList.add('tech');
+  input.value = '';
 }
-
+firstLi.addEventListener('click', alteraClasses);
+secondLi.addEventListener('click', alteraClasses);
+thirdLi.addEventListener('click', alteraClasses);
 
 // 3. Crie uma função que, ao digitar na caixa de texto, altere o texto do elemento
 // com a classe 'tech';

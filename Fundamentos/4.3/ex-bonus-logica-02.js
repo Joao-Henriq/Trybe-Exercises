@@ -1,5 +1,8 @@
-let text = '*';
-let maxEstrelas = 5;
-for(let i = 0 ; i <= maxEstrelas; i++){
-    console.log(text.repeat(i));
-} 
+let asterisco = '*';
+let vazio = '';
+let n = 5;
+
+for(let i = 0 ; i <= n ; i++){
+    console.log(vazio);
+    vazio = vazio + asterisco;
+}
