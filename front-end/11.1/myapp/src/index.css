@@ -12,11 +12,13 @@ code {
     monospace;
 }
 
-.div {
+button { 
+  margin-left: 350px;
+  margin-top: 75px;
+  border: 1px solid;
   text-align: center;
-  margin-top: 250px;
-}
-
-button {
-  margin: 10px;
+  width: 500px;
+  height: 500px;
+  border-radius: 250px;
+  font-size: 32px;
 }

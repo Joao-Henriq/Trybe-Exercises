@@ -1,0 +1,20 @@
+fieldset {
+  max-width: 500px;
+  text-align: center;
+  margin: 0 auto; 
+}
+
+input {
+  display: block;
+  margin: 5px auto;
+}
+
+select {
+  display: block;
+  margin: 5px auto;
+}
+
+.input-radio {
+  display: flex;
+  flex-direction: column;
+}
