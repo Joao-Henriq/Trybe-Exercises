@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 
 class Counter extends React.Component {
   constructor(props) {
@@ -14,12 +14,12 @@ class Counter extends React.Component {
   }
 
   shouldComponentUpdate(nextProps, nextState) {
-    console.log("shouldComponentUpdate");
+    console.log("shouldComponentUpdate", this.state, nextState);
     return true;
   }
 
   componentDidUpdate(prevProps, prevState) {
-    console.log("componentDidUpdate");
+    console.log("componentDidUpdate", this.state, prevState);
   }
 
   render() {

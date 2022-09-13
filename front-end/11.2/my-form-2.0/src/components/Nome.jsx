@@ -1,10 +1,6 @@
 import React, { Component } from "react";
 
 class Nome extends Component {
-  
-  
-  
-
   render() { 
     const { value, handleChange } = this.props
     return (
