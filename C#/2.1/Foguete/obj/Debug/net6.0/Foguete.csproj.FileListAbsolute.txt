@@ -1,0 +1,12 @@
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/2.1/Foguete/obj/Debug/net6.0/Foguete.csproj.AssemblyReference.cache
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/2.1/Foguete/obj/Debug/net6.0/Foguete.GeneratedMSBuildEditorConfig.editorconfig
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/2.1/Foguete/obj/Debug/net6.0/Foguete.AssemblyInfoInputs.cache
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/2.1/Foguete/obj/Debug/net6.0/Foguete.AssemblyInfo.cs
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/2.1/Foguete/obj/Debug/net6.0/Foguete.csproj.CoreCompileInputs.cache
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/2.1/Foguete/bin/Debug/net6.0/Foguete.deps.json
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/2.1/Foguete/bin/Debug/net6.0/Foguete.dll
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/2.1/Foguete/bin/Debug/net6.0/ref/Foguete.dll
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/2.1/Foguete/bin/Debug/net6.0/Foguete.pdb
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/2.1/Foguete/obj/Debug/net6.0/Foguete.dll
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/2.1/Foguete/obj/Debug/net6.0/ref/Foguete.dll
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/2.1/Foguete/obj/Debug/net6.0/Foguete.pdb

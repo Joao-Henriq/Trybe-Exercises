@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Foguete", "Foguete.csproj", "{C5874DEC-4AE8-4AC9-95CF-22216FF8C473}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5874DEC-4AE8-4AC9-95CF-22216FF8C473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5874DEC-4AE8-4AC9-95CF-22216FF8C473}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5874DEC-4AE8-4AC9-95CF-22216FF8C473}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5874DEC-4AE8-4AC9-95CF-22216FF8C473}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9287B86-7342-4126-9573-7CE2FCE16CA9}
+	EndGlobalSection
+EndGlobal
