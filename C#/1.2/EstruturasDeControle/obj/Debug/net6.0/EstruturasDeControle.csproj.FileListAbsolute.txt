@@ -1,0 +1,15 @@
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/1.2/EstruturasDeControle/bin/Debug/net6.0/EstruturasDeControle
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/1.2/EstruturasDeControle/bin/Debug/net6.0/EstruturasDeControle.deps.json
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/1.2/EstruturasDeControle/bin/Debug/net6.0/EstruturasDeControle.runtimeconfig.json
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/1.2/EstruturasDeControle/bin/Debug/net6.0/EstruturasDeControle.dll
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/1.2/EstruturasDeControle/bin/Debug/net6.0/ref/EstruturasDeControle.dll
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/1.2/EstruturasDeControle/bin/Debug/net6.0/EstruturasDeControle.pdb
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/1.2/EstruturasDeControle/obj/Debug/net6.0/EstruturasDeControle.csproj.AssemblyReference.cache
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/1.2/EstruturasDeControle/obj/Debug/net6.0/EstruturasDeControle.GeneratedMSBuildEditorConfig.editorconfig
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/1.2/EstruturasDeControle/obj/Debug/net6.0/EstruturasDeControle.AssemblyInfoInputs.cache
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/1.2/EstruturasDeControle/obj/Debug/net6.0/EstruturasDeControle.AssemblyInfo.cs
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/1.2/EstruturasDeControle/obj/Debug/net6.0/EstruturasDeControle.csproj.CoreCompileInputs.cache
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/1.2/EstruturasDeControle/obj/Debug/net6.0/EstruturasDeControle.dll
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/1.2/EstruturasDeControle/obj/Debug/net6.0/ref/EstruturasDeControle.dll
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/1.2/EstruturasDeControle/obj/Debug/net6.0/EstruturasDeControle.pdb
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/1.2/EstruturasDeControle/obj/Debug/net6.0/EstruturasDeControle.genruntimeconfig.cache

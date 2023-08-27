@@ -1,0 +1,15 @@
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/1.2/Casting/bin/Debug/net6.0/Casting
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/1.2/Casting/bin/Debug/net6.0/Casting.deps.json
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/1.2/Casting/bin/Debug/net6.0/Casting.runtimeconfig.json
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/1.2/Casting/bin/Debug/net6.0/Casting.dll
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/1.2/Casting/bin/Debug/net6.0/ref/Casting.dll
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/1.2/Casting/bin/Debug/net6.0/Casting.pdb
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/1.2/Casting/obj/Debug/net6.0/Casting.csproj.AssemblyReference.cache
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/1.2/Casting/obj/Debug/net6.0/Casting.GeneratedMSBuildEditorConfig.editorconfig
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/1.2/Casting/obj/Debug/net6.0/Casting.AssemblyInfoInputs.cache
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/1.2/Casting/obj/Debug/net6.0/Casting.AssemblyInfo.cs
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/1.2/Casting/obj/Debug/net6.0/Casting.csproj.CoreCompileInputs.cache
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/1.2/Casting/obj/Debug/net6.0/Casting.dll
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/1.2/Casting/obj/Debug/net6.0/ref/Casting.dll
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/1.2/Casting/obj/Debug/net6.0/Casting.pdb
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/1.2/Casting/obj/Debug/net6.0/Casting.genruntimeconfig.cache
