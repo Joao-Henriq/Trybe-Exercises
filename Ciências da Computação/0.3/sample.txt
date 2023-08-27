@@ -1,0 +1,80 @@
+1- Tela inicial com listagem de categorias, serviços em destaques e campo busca (
+  rotas : "/home" ou só "/"
+
+  Aqui vc vai direcionar o usuário pra essa rota/tela após a tela de login e senha caso login e senha estejam corretos 
+
+  Aqui vc vai precisar listar as categorias e serviços existentes, essas categorias virão da sua api ( nao sei como elas virão vc terá de tratar cada uma justamente no front )
+
+  o campo de busca vai fazer um "filter" de acordo com aquilo que está sendo procurado, após confirmar o campo de pesquisa com algum texto
+  vc vai retornar algo que esteja relacionado com aquilo que o usuário pesquisou
+
+  )
+
+
+2- Tela de perfil do usuário (
+  rota / page : "/user/:id_do_seu_usuario_aqui" -> sugestão
+  aqui vc vai pegar as informações desse usuario através da api e exibir na tela, como o nome, contato, etc.
+  talvez de maneira mais específica, não sei como tá sua api
+)
+
+
+3- Tela de detalhes do prestador com informações sobre o serviço, quantidade de estrelas na avaliação e etc.(
+  rota / page : "/home/prestador/:id_do_seu_prestador" ou "/prestador/:id_do_seu_prestador" -?> só uma sugestão
+
+  aqui vc vai retornar as coisas específicas dos prestadores, vc vai criar essa tela/rota pensando nisso
+  vai consumir a api também talvez de maneira mais específica, não sei como tá sua api
+
+)
+
+
+4- Tela de detalhes de cada serviço (
+    esse eu achei meio confuso, talvez seja o detalhe de cada serviço do prestador  OU seja o detalhe geral de cada tipo de serviço q vários prestadores podem prestar
+
+    sugestão rota / tela : "/home/servicos" OU "/servicos" OU ainda "/prestador/:id_do_seu_prestador/servicos"
+    vai fazer o consumo da api nessas telas / rotas também
+)
+
+
+5- Tela de listagem dos serviços de cada categoria
+    (
+      basicamente consumo da api e mostrar na isso na tela
+      categoria (pai) -> servicos (filhos)
+    )
+
+6- Tela de histórico de pedidos
+    ( esse aqui é mto dificil eu não sei como implementar :/ )
+
+7- Tela de resultado de busca ( basicamente o campo de busca que falei lá no "1")
+
+
+8- Tela de detalhes da solicitação ( 
+  não entendi muito bem, parece ser detalhes dos resultados de busca ex:
+  pesquisou por uma categoria específica e clicou nessa categoria em específico, ao clicar vai precisar ir pra essa tela
+
+  ** talvez seja isso eu realmente não entendi muito bem isso que ele pediu **
+  
+  )
+
+
+9- Tela de Finalização da solicitação do pedido
+    (
+      basicamente ao realizar o pedido deixar a opção de finalizar a solicitação caso queira desistir ou caso o serviço ja esteja finalizado
+      também não entendi 100% isso aqui
+    )
+
+
+10- Tela de Finalização do serviço, onde o cliente confirma a realização do serviço e deixa uma avaliação de 1 a 5 estrelas daquele serviço.
+    ( isso aqui é uma extensão da 9 com campo de avaliação )
+
+
+ESPECIFICAÇÕES TÉCNICAS OBRIGATÓRIAS
+- Login com autenticação via token
+- Todos os cruds devem ser funcionais e serem enviados ou trazidos da api. Sendo eles: usuários,  serviços, categorias, prestadores e pedidos.
+- Além dos usuários, prestadores, serviços, deve ser criado uma tabela para armazenar os pedidos feitos por cada cliente especificando para qual prestador, serviço e demais informações.
+- O cadastro inicial antes de entrar no app deve conter apenas os dados: nome, email, telefone, senha, confirmação de senha.
+- Deve existir a validação da senha caso a senha e confirmação de senha sejam diferentes.
+- Na recuperação, deve ser gerado uma nova senha aleatória e enviada para o e-mail cadastrado. 
+- Dentro na tela inicial a busca deve ser dinâmica, buscando automaticamente assim que a pessoa começar a digitar.
+- O pedido de ser armazenado no banco de dados e listado na tela de histórico com o status de em andamento, concluído ou cancelado.
+- As rotas da api devem ter a opção de serem testadas pelo software insominia ou outro de teste de api rest Full.
+- No perfil do usuário deve ter a opção de alteração de foto do perfil além dos demais dados pessoais.
