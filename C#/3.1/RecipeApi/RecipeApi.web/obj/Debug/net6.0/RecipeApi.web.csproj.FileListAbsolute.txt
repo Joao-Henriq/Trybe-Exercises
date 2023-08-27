@@ -1,0 +1,7 @@
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/3.1/RecipeApi/RecipeApi.web/obj/Debug/net6.0/RecipeApi.web.csproj.AssemblyReference.cache
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/3.1/RecipeApi/RecipeApi.web/obj/Debug/net6.0/RecipeApi.web.GeneratedMSBuildEditorConfig.editorconfig
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/3.1/RecipeApi/RecipeApi.web/obj/Debug/net6.0/RecipeApi.web.AssemblyInfoInputs.cache
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/3.1/RecipeApi/RecipeApi.web/obj/Debug/net6.0/RecipeApi.web.AssemblyInfo.cs
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/3.1/RecipeApi/RecipeApi.web/obj/Debug/net6.0/RecipeApi.web.csproj.CoreCompileInputs.cache
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/3.1/RecipeApi/RecipeApi.web/obj/Debug/net6.0/RecipeApi.web.MvcApplicationPartsAssemblyInfo.cs
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/3.1/RecipeApi/RecipeApi.web/obj/Debug/net6.0/RecipeApi.web.MvcApplicationPartsAssemblyInfo.cache
