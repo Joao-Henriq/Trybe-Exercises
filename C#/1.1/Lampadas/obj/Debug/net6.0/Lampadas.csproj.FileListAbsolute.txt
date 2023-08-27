@@ -1,0 +1,15 @@
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/Lampadas/obj/Debug/net6.0/Lampadas.csproj.AssemblyReference.cache
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/Lampadas/obj/Debug/net6.0/Lampadas.GeneratedMSBuildEditorConfig.editorconfig
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/Lampadas/obj/Debug/net6.0/Lampadas.AssemblyInfoInputs.cache
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/Lampadas/obj/Debug/net6.0/Lampadas.AssemblyInfo.cs
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/Lampadas/obj/Debug/net6.0/Lampadas.csproj.CoreCompileInputs.cache
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/Lampadas/bin/Debug/net6.0/Lampadas
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/Lampadas/bin/Debug/net6.0/Lampadas.deps.json
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/Lampadas/bin/Debug/net6.0/Lampadas.runtimeconfig.json
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/Lampadas/bin/Debug/net6.0/Lampadas.dll
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/Lampadas/bin/Debug/net6.0/ref/Lampadas.dll
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/Lampadas/bin/Debug/net6.0/Lampadas.pdb
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/Lampadas/obj/Debug/net6.0/Lampadas.dll
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/Lampadas/obj/Debug/net6.0/ref/Lampadas.dll
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/Lampadas/obj/Debug/net6.0/Lampadas.pdb
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/Lampadas/obj/Debug/net6.0/Lampadas.genruntimeconfig.cache

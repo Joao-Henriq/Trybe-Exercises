@@ -1,0 +1,15 @@
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/HelloWorld/bin/Debug/net6.0/HelloWorld
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/HelloWorld/bin/Debug/net6.0/ref/HelloWorld.dll
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache
