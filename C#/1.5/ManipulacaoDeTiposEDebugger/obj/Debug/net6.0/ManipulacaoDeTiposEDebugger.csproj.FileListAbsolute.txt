@@ -1,0 +1,15 @@
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/1.5/ManipulacaoDeTiposEDebugger/bin/Debug/net6.0/ManipulacaoDeTiposEDebugger
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/1.5/ManipulacaoDeTiposEDebugger/bin/Debug/net6.0/ManipulacaoDeTiposEDebugger.deps.json
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/1.5/ManipulacaoDeTiposEDebugger/bin/Debug/net6.0/ManipulacaoDeTiposEDebugger.runtimeconfig.json
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/1.5/ManipulacaoDeTiposEDebugger/bin/Debug/net6.0/ManipulacaoDeTiposEDebugger.dll
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/1.5/ManipulacaoDeTiposEDebugger/bin/Debug/net6.0/ref/ManipulacaoDeTiposEDebugger.dll
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/1.5/ManipulacaoDeTiposEDebugger/bin/Debug/net6.0/ManipulacaoDeTiposEDebugger.pdb
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/1.5/ManipulacaoDeTiposEDebugger/obj/Debug/net6.0/ManipulacaoDeTiposEDebugger.csproj.AssemblyReference.cache
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/1.5/ManipulacaoDeTiposEDebugger/obj/Debug/net6.0/ManipulacaoDeTiposEDebugger.GeneratedMSBuildEditorConfig.editorconfig
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/1.5/ManipulacaoDeTiposEDebugger/obj/Debug/net6.0/ManipulacaoDeTiposEDebugger.AssemblyInfoInputs.cache
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/1.5/ManipulacaoDeTiposEDebugger/obj/Debug/net6.0/ManipulacaoDeTiposEDebugger.AssemblyInfo.cs
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/1.5/ManipulacaoDeTiposEDebugger/obj/Debug/net6.0/ManipulacaoDeTiposEDebugger.csproj.CoreCompileInputs.cache
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/1.5/ManipulacaoDeTiposEDebugger/obj/Debug/net6.0/ManipulacaoDeTiposEDebugger.dll
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/1.5/ManipulacaoDeTiposEDebugger/obj/Debug/net6.0/ref/ManipulacaoDeTiposEDebugger.dll
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/1.5/ManipulacaoDeTiposEDebugger/obj/Debug/net6.0/ManipulacaoDeTiposEDebugger.pdb
+/home/joao/Trybe/trybe-exercises/Trybe-Exercises/C#/1.5/ManipulacaoDeTiposEDebugger/obj/Debug/net6.0/ManipulacaoDeTiposEDebugger.genruntimeconfig.cache
